@@ -10,8 +10,6 @@ app.use(express.static('./public'));
 
 controlar(app);
 
-
-
 app.listen(3000);
 
 console.log('Server is running...');
